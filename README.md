@@ -2,3 +2,5 @@
 
 # 题目一
 1. $\Pi_{branch\_name}(\sigma_{branch\_city='成都'}(branch))$
+
+$\Pi\_{branch\_name}(\sigma\_{branch\_city='成都'}(branch))$
