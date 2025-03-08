@@ -4,3 +4,4 @@
 1. $\Pi_{branch\_name}(\sigma_{branch\_city='成都'}(branch))$
 
 
+$\Pi_{branch\_name}(\sigma_{\text{branch\_city}='成都'}(branch))$
