@@ -1,7 +1,1 @@
-# 42233098陈胤卿
-
-# 题目一
-1. $\Pi_{branch\_name}(\sigma_{branch\_city='成都'}(branch))$
-
-
-$\Pi_{branch\_name}(\sigma_{\text{branch\_city}='成都'}(branch))$
+# 42233098 陈胤卿 2024-2025-2 学期数据库原理与应用作业
